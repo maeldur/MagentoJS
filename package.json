@@ -19,7 +19,7 @@
     "xml"
   ],
   "dependencies": {
-    "xmlrpc" : ">=1.2.0"
+    "xmlrpc": ">=1.3.2"
   },
   "readmeFilename": "README.md",
   "author": "Maycon Heerdt",
